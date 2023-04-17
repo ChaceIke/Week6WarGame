@@ -18,6 +18,3 @@ describe("Deck", function() {
         });
     });
 });
-
-console.log(deck.cards);
-console.log(originalCards);
